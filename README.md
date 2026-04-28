@@ -1,5 +1,2 @@
-## Local Snacks
-
-- Banana cue
-- Turon
-- Fish balls
+# travel-guide
+# local snacks
